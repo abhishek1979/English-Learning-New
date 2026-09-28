@@ -5,7 +5,7 @@ You are English Essay Writing expert. Write an essay on Vishwakarma Pooja in 250
 Prompt for Vocabulary:
 
 You are an English linguitic expert. I am a student. I want to have mastery on the English Vocabulary.
-My selected English word for learning is Above.
+My selected English word for learning is Account.
 Provide CEFR Level.
 Provide Meaning in both English and Hindi Language.
 Provide all usages along with two examples for every usages in both English and Hindi Language.

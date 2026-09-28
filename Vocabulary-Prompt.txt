@@ -1,0 +1,12 @@
+Prompt for Vocabulary:
+
+You are an English linguitic expert. I am a student. I want to have mastery on the English Vocabulary.
+My selected English word for learning is Perform.
+Provide CEFR Level.
+Provide Meaning in both English and Hindi Language.
+Provide all usages along with two examples for every usages in both English and Hindi Language.
+Give all Collocations with two examples for every collocation in both English and Hindi language.
+Provide all Phrase and Phrasal Verbs made using this word.
+Provide 5 Synonyms.
+Provide 5 Antonyms.
+Convert into beautiful format in PDF with Header and Footer section and make available for download. 
